@@ -10,6 +10,7 @@ import datetime
 import pandas as pd
 
 nltk.download('punkt')
+nltk.download('wordnet')
 
 # Load the text file and preprocess the data
 with open('text_files/buttbot.txt', 'r', encoding='utf-8') as f:
