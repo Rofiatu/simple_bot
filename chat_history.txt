@@ -1,0 +1,75 @@
+2023-05-11 19:25:53.623311 User: 
+2023-05-11 19:25:58.709292 User: hey there, Butt!
+2023-05-11 19:26:00.728897 Butt: 
+
+Hello, there!
+2023-05-11 19:26:07.813565 User: how do you do?
+2023-05-11 19:26:09.830973 Butt: Do you not?
+2023-05-11 19:26:16.777199 User: how are you?
+2023-05-11 19:26:18.792980 Butt: How are you today?
+2023-05-11 19:26:27.567369 User: I am fine. how are you too?
+2023-05-11 19:26:29.582750 Butt: You are far too kind!
+2023-05-11 19:26:36.583050 User: I have a question
+2023-05-11 19:26:38.598014 Butt: I am not yet as intelligent and advanced as most of my senior peers, like ChatGPT but I hope you have found some answers or will find some answers to your questions.
+2023-05-11 19:26:49.465372 User: what is data science?
+2023-05-11 19:26:51.481227 Butt: what did you want help with again?
+2023-05-11 19:26:57.832264 User: data science
+2023-05-11 19:26:59.847693 Butt: Some of the most prominent sub-fields in data science include: Machine Learning, Data Mining, Data Engineering, Data Visualisation, Big Data, Artificial Intelligence, Natural Language Processing, Business Intelligence, Deep Learning, Predictive Analysis.
+2023-05-11 19:27:16.652905 User: how can you define data science?
+2023-05-11 19:27:16.756371 User: how can you define data science?
+2023-05-11 19:27:18.770903 Butt: How can I help you today?
+2023-05-11 19:27:29.014453 User: I want to know more about data science
+2023-05-11 19:27:31.027675 Butt: Bots don't know how they are.
+2023-05-11 19:27:38.149150 User: who is Butt?
+2023-05-11 19:27:40.165103 Butt: I am Butt, the bot.
+2023-05-11 19:27:47.569944 User: who are you?
+2023-05-11 19:27:49.584376 Butt: How are you today?
+2023-05-11 19:28:05.300024 User: I would like to know who created you.
+2023-05-11 19:28:07.315729 Butt: Bots don't know how they are.
+2023-05-11 19:28:15.298009 User: how are you, Butt?
+2023-05-11 19:28:17.313799 Butt: How are you today?
+2023-05-11 19:29:20.172717 User: what is big data?
+2023-05-11 19:29:22.191150 Butt: Big Data is the study of how to process, store, and analyze large and complex datasets.
+2023-05-11 19:29:29.117171 User: what is data science?
+2023-05-11 19:29:31.130776 Butt: what did you want help with again?
+2023-05-11 19:29:59.620537 User: what is data science?
+2023-05-11 19:30:01.633254 Butt: what did you want help with again?
+2023-05-11 19:30:03.442344 User: what is data science?
+2023-05-11 19:30:05.459855 Butt: what did you want help with again?
+2023-05-11 19:30:12.555803 User: data science is what?
+2023-05-11 19:30:14.571002 Butt: what did you want help with again?
+2023-05-11 19:30:29.349923 User: data science is what?
+2023-05-11 19:30:31.365688 Butt: what did you want help with again?
+2023-05-11 19:30:42.598091 User: data science is defined as what?
+2023-05-11 19:30:44.614817 Butt: Data science is defined as a multidisciplinary field that involves using scientific methods, processes, algorithms, and systems to extract insights and knowledge from structured and unstructured data.
+2023-05-11 19:31:18.692191 User: 
+2023-05-11 19:31:23.347878 User: hey, Butt!
+2023-05-11 19:31:25.360021 Butt: I am Butt, the bot.
+2023-05-11 19:31:31.716195 User: how are you?
+2023-05-11 19:31:33.731990 Butt: How are you today?
+2023-05-11 19:31:40.664719 User: I dey o. how far?
+2023-05-11 19:31:42.680102 Butt: You are far too kind!
+2023-05-11 19:32:46.365623 User: how you day?
+2023-05-11 19:32:48.381043 Butt: I day for you, my guy!
+2023-05-11 19:33:01.502396 User: how your side?
+2023-05-11 19:33:03.518546 Butt: How your side?
+2023-05-11 19:33:16.177377 User: my side day. how your side?
+2023-05-11 19:33:18.193237 Butt: How your side?
+2023-05-11 19:33:28.367617 User: my side day. how your side?
+2023-05-11 19:33:30.385330 Butt: How are you today?
+2023-05-11 19:33:36.181775 User: good. you?
+2023-05-11 19:33:38.197089 Butt: Thank you!
+2023-05-11 19:34:32.861480 User: 
+2023-05-11 19:34:51.089620 User: 
+2023-05-11 19:35:33.069744 User: 
+2023-05-11 19:35:54.499115 User: 
+2023-05-11 19:36:50.206393 User: 
+2023-05-11 19:37:00.585415 User: 
+2023-05-11 19:38:00.166636 User: 
+2023-05-11 19:38:04.800160 User: hey, Butt!
+2023-05-11 19:38:06.520349 User: hey, Butt!
+2023-05-11 19:38:08.534429 Butt: I am Butt, the bot.
+2023-05-11 19:38:13.958661 User: hi!
+2023-05-11 19:38:15.975317 Butt: 
+
+Hello, there!
