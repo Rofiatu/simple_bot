@@ -9,6 +9,8 @@ import time
 import datetime
 import pandas as pd
 
+nltk.download('punkt')
+
 # Load the text file and preprocess the data
 with open('text_files/buttbot.txt', 'r', encoding='utf-8') as f:
     dataset = f.read()
