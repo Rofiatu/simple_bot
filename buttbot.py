@@ -78,7 +78,8 @@ def main():
             # handle the case where there are not exactly 2 values in the line
             pass
 
-    df = pd.DataFrame(chat_history)
+    # df = pd.DataFrame(chat_history)
+    df = pd.DataFrame(chat_history).sort_values(by='message', ascending=False)
     st.write(df)
 
 if __name__ == "__main__":
